@@ -1,0 +1,10 @@
+{
+  "name": "ledger-media",
+  "private": true,
+  "scripts": { "deploy": "wrangler deploy", "dev": "wrangler dev" },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240909.0",
+    "wrangler": "^3.78.0",
+    "typescript": "^5.5.4"
+  }
+}

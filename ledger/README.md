@@ -39,8 +39,8 @@ on every commit.
 | | | |
 |---|---|---|
 | 1 | Foundation and security | **done** |
-| 2 | Sync engine | next |
-| 3 | Trades, legs, timeline | |
+| 2 | Sync engine | **done** |
+| 3 | Trades, legs, timeline | **done** |
 | 4 | Export, import, backups, restore drill | |
 | 5 | Media | |
 | 6 | Daily prep | |
